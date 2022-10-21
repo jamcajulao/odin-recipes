@@ -1,5 +1,5 @@
 # Adventure Time Cookbook
-[view live preview](jamcajulao.github.io/odin-recipes/)
+[view live preview](https://jamcajulao.github.io/odin-recipes/)
 
 # About
 A collection of delicious and unique meals from the Land of Ooo.
