@@ -1,9 +1,9 @@
 # Adventure Time Cookbook
 [view live preview](https://jamcajulao.github.io/odin-recipes/)
 
-# About
+## About
 A collection of delicious and unique meals from the Land of Ooo.
 
-# Background
+## Background
 A project in the *The Odin Project*'s Foundations Course. Showcasing understanding of Git Basics and HTML Foundations.  
 
